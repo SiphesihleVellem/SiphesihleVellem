@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Website coding</h1>
+  </body>
+</html>
